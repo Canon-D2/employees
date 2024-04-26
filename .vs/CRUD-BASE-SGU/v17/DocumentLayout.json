@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\models\\demo1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\models\\demo1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|c:\\users\\chiba\\source\\repos\\crud-base-sgu\\crud-base-sgu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFED2337-BE4C-4A23-8C85-46D69B66DE09}|CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj|solutionrelative:crud-base-sgu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Program.cs",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Program.cs",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:04:08.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:03:24.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Models\\Employee.cs",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:01:18.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA7wA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:00:07.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DEMO1Context.cs",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Models\\DEMO1Context.cs",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Models\\DEMO1Context.cs",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Models\\DEMO1Context.cs",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Models\\DEMO1Context.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:00:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\appsettings.json",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\appsettings.json",
+              "RelativeToolTip": "CRUD-BASE-SGU\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T18:05:29.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:04:30.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:04:39.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:04:51.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:04:54.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:04:58.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:03:12.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD-BASE-SGU\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUD-BASE-SGU\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:01:40.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

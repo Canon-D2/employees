@@ -1,0 +1,61 @@
+# version: '3'
+# services:
+#   app:
+#     build: 
+#       context: .
+#       dockerfile: Dockerfile
+#     ports:
+#       - "8081:80"  # Cổng 8081 trỏ đến ứng dụng web
+#     depends_on:
+#       - mysql
+#   mysql:
+#     image: mysql:latest
+#     ports:
+#       - "3306:3306"  # Cổng 3306 trỏ đến cơ sở dữ liệu MySQL
+#     environment:
+#       MYSQL_ROOT_PASSWORD: "123"
+#       MYSQL_DATABASE: "EMPLOYEES_CRUD"
+#   phpmyadmin:
+#     image: phpmyadmin/phpmyadmin
+#     ports:
+#       - "8080:80"  # Cổng 8080 trỏ đến phpMyAdmin
+#     depends_on:
+#       - mysql
+#     environment:
+#       PMA_HOST: "mysql"
+#       PMA_USER: "root"
+#       PMA_PASSWORD: "123"
+
+
+version: '3'
+services:
+  app:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8081:80"  # Cổng 8081 trỏ đến ứng dụng web
+    depends_on:
+      - mysql
+    environment:
+      MYSQL_CONNECTION_STRING: "mysql://gPNFm22GnoAWyas.root:Zy1VByFqLmPjm3b9@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/EMPLOYEES_CRUD"
+      MYSQL_DATABASE: "EMPLOYEES_CRUD"
+      MYSQL_USER: "gPNFm22GnoAWyas.root"
+      MYSQL_PASSWORD: "Zy1VByFqLmPjm3b9"
+  mysql:
+    image: mysql:latest
+    ports:
+      - "3306:3306"  # Cổng 3306 trỏ đến cơ sở dữ liệu MySQL
+    environment:
+      MYSQL_ROOT_PASSWORD: "123"
+      MYSQL_DATABASE: "EMPLOYEES_CRUD"
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - "8080:80"  # Cổng 8080 trỏ đến phpMyAdmin
+    depends_on:
+      - mysql
+    environment:
+      PMA_HOST: "mysql"
+      PMA_USER: "root"
+      PMA_PASSWORD: "123"
