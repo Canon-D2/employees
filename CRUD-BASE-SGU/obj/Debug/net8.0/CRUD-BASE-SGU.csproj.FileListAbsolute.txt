@@ -57,3 +57,123 @@ C:\Users\chiba\source\repos\CRUD-BASE-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtime
 C:\Users\chiba\source\repos\CRUD-BASE-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\chiba\source\repos\CRUD-BASE-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\chiba\source\repos\CRUD-BASE-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\appsettings.json
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.staticwebassets.runtime.json
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.exe
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.deps.json
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.runtimeconfig.json
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.pdb
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.csproj.AssemblyReference.cache
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.AssemblyInfoInputs.cache
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.AssemblyInfo.cs
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.csproj.CoreCompileInputs.cache
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.RazorAssemblyInfo.cache
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.RazorAssemblyInfo.cs
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.sourcelink.json
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets\msbuild.CRUD-BASE-SGU.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD-BASE-SGU.props
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD-BASE-SGU.props
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD-BASE-SGU.props
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\scopedcss\bundle\CRUD-BASE-SGU.styles.css
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\scopedcss\projectbundle\CRUD-BASE-SGU.bundle.scp.css
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BAS.62D8DA2D.Up2Date
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\refint\CRUD-BASE-SGU.dll
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.pdb
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.genruntimeconfig.cache
+C:\Users\chiba\OneDrive\Máy tính\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\ref\CRUD-BASE-SGU.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\appsettings.Development.json
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\appsettings.json
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.staticwebassets.runtime.json
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.exe
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.deps.json
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.runtimeconfig.json
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\CRUD-BASE-SGU.pdb
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\MySql.Data.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\ZstdSharp.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.csproj.AssemblyReference.cache
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.AssemblyInfoInputs.cache
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.AssemblyInfo.cs
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.csproj.CoreCompileInputs.cache
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.MvcApplicationPartsAssemblyInfo.cache
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.RazorAssemblyInfo.cache
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.RazorAssemblyInfo.cs
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.sourcelink.json
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets.build.json
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets.development.json
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets\msbuild.CRUD-BASE-SGU.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD-BASE-SGU.props
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD-BASE-SGU.props
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD-BASE-SGU.props
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\scopedcss\bundle\CRUD-BASE-SGU.styles.css
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\scopedcss\projectbundle\CRUD-BASE-SGU.bundle.scp.css
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BAS.62D8DA2D.Up2Date
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\refint\CRUD-BASE-SGU.dll
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.pdb
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\CRUD-BASE-SGU.genruntimeconfig.cache
+D:\Git_Project\CRUD-BASE-MYSQL-SGU\CRUD-BASE-SGU\obj\Debug\net8.0\ref\CRUD-BASE-SGU.dll

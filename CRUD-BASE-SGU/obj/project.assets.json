@@ -2458,11 +2458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj",
+      "projectUniqueName": "D:\\Git_Project\\CRUD-BASE-MYSQL-SGU\\CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj",
       "projectName": "CRUD-BASE-SGU",
-      "projectPath": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj",
+      "projectPath": "D:\\Git_Project\\CRUD-BASE-MYSQL-SGU\\CRUD-BASE-SGU\\CRUD-BASE-SGU.csproj",
       "packagesPath": "C:\\Users\\chiba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chiba\\source\\repos\\CRUD-BASE-SGU\\CRUD-BASE-SGU\\obj\\",
+      "outputPath": "D:\\Git_Project\\CRUD-BASE-MYSQL-SGU\\CRUD-BASE-SGU\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
